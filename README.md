@@ -1,3 +1,3 @@
 #Firefox Custom Theme
 <h1>Usage (Windows) =></h1>
-<p> Download userChrome.css and userContent.css files press <b>Windows + R</b> paste this; <b>%APPDATA%\Mozilla\Firefox\Profiles\</b> press enter you should see <b>wmgir4k7.default-release</b> folder in this folder create <b>chrome folder</b> paste this files in to <b>chrome</b> now restart your browser. <b>(:</b> </p>
+<p> Download <code>userChrome.css</code> and <code>userContent.css</code> files press <code>Windows + R</code> paste this; <code>%APPDATA%\Mozilla\Firefox\Profiles\</code> press enter you should see <code>wmgir4k7.default-release</code> folder in this folder create <code>chrome</code> folder paste this files in to <code>chrome</code> now restart your browser. </p>(:</b> </p>
