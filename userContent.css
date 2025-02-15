@@ -1,0 +1,15 @@
+@-moz-document url-prefix(about:newtab), url-prefix(about:home) {
+.top-site-outer .tile .icon-wrapper {height:80% !important; width:80% !important;}
+.tile{background-color: aliceblue !important; box-shadow: 0 0 0 !important; width: 50px !important; height: 50px !important; filter:drop-shadow(0 0 1px aliceblue) !important}/**shortcuts background**/
+.tile:hover{background-color: black !important; filter:drop-shadow(0 0 0) !important;} /**hover of shortcuts background**/
+#root{background-color:black !important;} /**background of homepage**/
+.top-site-outer .rich-icon{background-color: transparent !important;}
+.top-site-outer{ margin:-15px !important;}
+.icon.icon-settings{display: none !important;} /** settings on homepage if you want enable again delete this line**/
+.top-site-outer:hover{background-color: transparent !important;}
+.context-menu-button.icon{margin-top: 25px !important; margin-right: 10px !important;}
+.top-sites-list{justify-content: center;}
+.logo-and-wordmark .wordmark{fill:aliceblue !important; filter:drop-shadow(0 0 1px rgb(255, 85, 0)) !important;}/**firefox text on homepage**/
+.search-wrapper .search-handoff-button{border-radius: 24px !important; background-color: rgb(25, 24, 24) !important;} /**search box**/
+}
+/**use !important keyword to change this styles**/
